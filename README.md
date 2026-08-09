@@ -1,5 +1,6 @@
 # BO2 Emblem Tool
 
+![BO2 Emblem Tool](preview.png)
 
 ## Download
 
