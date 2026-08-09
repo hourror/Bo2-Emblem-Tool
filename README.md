@@ -1,6 +1,5 @@
 # BO2 Emblem Tool
 
-by **Horror**
 
 ## Download
 
